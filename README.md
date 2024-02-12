@@ -1,10 +1,9 @@
-Hi there 👋 I'm rxvlc
-
+<div align="center">
+<h1 align="center"> Hi there 👋  <a href="https://github.com/rxvlc"> I'm rxvlc </a></h1>
+</div>
 <!--
 **rxvlc/rxvlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-!-->
+-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rxvlc&style=flat-square" alt="rxvlc" /> </p>
 
