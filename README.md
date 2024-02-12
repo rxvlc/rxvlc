@@ -1,4 +1,4 @@
-## Hi there 👋 I'm rxvlc
+Hi there 👋 I'm rxvlc
 
 <!--
 **rxvlc/rxvlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
